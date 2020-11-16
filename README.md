@@ -12,8 +12,8 @@ a rotate man + ui
 ![image](https://github.com/CSeven19/virtual-man/blob/master/Show/menu.png)
 
 ## base2:adventure scene
-chinemachine Freelook + pickup function + simple enemy ai   
-+ minimap + ui + audio mixer + terrain + animation mixer...
+chinemachine Freelook + pickup function + simple enemy ai  
+minimap + ui + audio mixer + terrain + animation mixer...
 ![image](https://github.com/CSeven19/virtual-man/blob/master/Show/ad1.png)  
 ![image](https://github.com/CSeven19/virtual-man/blob/master/Show/ad3.png)  
 ![image](https://github.com/CSeven19/virtual-man/blob/master/Show/ad2.png)  
