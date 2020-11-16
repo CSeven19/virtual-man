@@ -25,7 +25,7 @@ a battle scene based on action bar
 ![image](https://github.com/CSeven19/virtual-man/blob/master/Show/battle2.png)
 
 ## levelup1:auto decorate house
-please see 室内2d设计图片识别技术的屋内场景的自动构建.docx  
+please see 室内2d设计图片识别技术的屋内场景的自动构建.docx(设计部分)+AutoHouse文件夹(代码部分)
 
 ## levelup2:deep relatinoship
 please see 图库关系技术的npc开放性任务及涉及关系的回调应用.docx  
